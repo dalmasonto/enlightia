@@ -1,0 +1,4 @@
+first_name,last_name,email,username,password,phone_number,gender,work_phone_number,latitude,longitude,is_agrovet,is_freelance,agrovet_name,company,landmark,county
+Agent232,Three,agent3@gmail.com,agent3,agent3,70000000,male,700000000,1.3434,36.9383,TRUE,FALSE,New Animals Agrovet,My Company,New Hospital,1
+Agentdfd,Four,agent3@gmail.com,agent4,agent3,70000000,male,700000000,1.3434,36.9383,TRUE,FALSE,New Animals Agrovet,My Company,New Hospital,33
+Agent,Four,agent3@gmail.com,agent4,agent3,70000000,male,700000000,1.3434,36.9383,TRUE,FALSE,New Animals Agrovet,,,2
